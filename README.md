@@ -49,4 +49,4 @@ An interactive dashboard was created using Power BI to visualize key insights fr
 ## Project Files
 - `Netflix Data Analysis Project.ipynb` – Complete analysis notebook
 - `netflix.csv` – Dataset used for analysis
-- 'Netflix analysis dashboard.pbix' - Analysis Dashboard
+-  Netflix analysis dashboard.pbix - Analysis Dashboard
