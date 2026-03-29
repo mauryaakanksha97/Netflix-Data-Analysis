@@ -16,7 +16,7 @@ The goal is to uncover insights about content distribution, growth trends, durat
 ## Power BI Dashboard 
 An interactive dashboard was created using Power BI to visualize key insights from the Netflix dataset.
 ### Key Features: 
-- KPI Cards (Total Titles, Churn Rate, Avg Duration, etc.)
+- KPI Cards (Total Titles, Movies, TV Shows, etc.)
 - Content distribution by type (Movies vs TV Shows)
 - Trend analysis over years
 - Country-wise content availability
