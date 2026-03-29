@@ -22,7 +22,7 @@ An interactive dashboard was created using Power BI to visualize key insights fr
 - Country-wise content availability
 - Genre distribution insights
 ### Dashboard Preview:
-![Dashboard](Netflix Analysis Dashboard.png)
+![Dashboard](Netflix_Analysis_Dashboard.png)
 
 ## Dataset
 - Source: Netflix Movies and TV Shows dataset
