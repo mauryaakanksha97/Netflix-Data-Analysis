@@ -1,4 +1,4 @@
-# Netflix Data Analysis 
+# Netflix Data Analysis & Dashboard (Python + Power BI) 
 
 ## Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on Netflix’s content catalog using Python.  
@@ -48,4 +48,5 @@ An interactive dashboard was created using Power BI to visualize key insights fr
 
 ## Project Files
 - `Netflix Data Analysis Project.ipynb` – Complete analysis notebook
-- `netflix_powerbi_final.csv` – Dataset used for analysis
+- `netflix.csv` – Dataset used for analysis
+- 'Netflix analysis dashboard.pbix' - Analysis Dashboard
