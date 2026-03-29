@@ -11,12 +11,22 @@ The goal is to uncover insights about content distribution, growth trends, durat
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Power BI
+  
+## Power BI Dashboard 
+An interactive dashboard was created using Power BI to visualize key insights from the Netflix dataset.
+### Key Features: 
+- KPI Cards (Total Titles, Churn Rate, Avg Duration, etc.)
+- Content distribution by type (Movies vs TV Shows)
+- Trend analysis over years
+- Country-wise content availability
+- Genre distribution insights
 
 ## Dataset
 - Source: Netflix Movies and TV Shows dataset
 - Format: CSV
 - Rows: ~19,000 titles
-- 
+  
 ## Key Analysis Performed
 - Movies vs TV Shows distribution
 - Content growth trend over the years
